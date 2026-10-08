@@ -20,11 +20,15 @@ window.TRESCI = {
     "cytat": "Moja historia jeszcze się pisze.",
     "wartosci": [
       {
+        "tytul": "Rodzina",
+        "opis": "Najważniesze dla mnie jest życie rodzinne jestem człowiekiem, którego świat się zmienił możnaby powiedzieć, że otworzył się na nowo po pierwszym zobaczeniu mojej córeczki. Wszystko co robię robie z myślą o niej. życie nabrało koloru i smaku."
       },
       {
+        "tytul": "Kariera",
         "opis": "[Co jest dla Ciebie ważne w relacjach i codziennych decyzjach?]"
       },
       {
+        "tytul": "Sport",
         "opis": "[Co pomaga Ci robić następny krok, nawet niewielki?]"
       }
     ]
