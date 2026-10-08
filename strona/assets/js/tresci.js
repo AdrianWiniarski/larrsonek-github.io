@@ -14,10 +14,10 @@ window.TRESCI = {
   "teraz": "Tutaj napisz jednym zdaniem, czym obecnie się zajmujesz lub czego się uczysz.",
   "potem": "Tutaj wpisz najbliższy cel: nowy projekt, kolejny krok w karierze albo podróż.",
   "oMnie": {
-    "zajawka": "Kilka słów o człowieku, który stoi za tą stroną.",
+    "zajawka": "Kilka słów o mnie.",
     "akapit1": "[Napisz, kim jesteś, czym zajmujesz się na co dzień i co jest dla Ciebie ważne. Nie musisz zaczynać od formalnego życiorysu — opowiedz po swojemu.]",
     "akapit2": "[Dodaj historię, która coś o Tobie mówi. Co Cię ukształtowało? Dlaczego wybrałeś swoją drogę? Z czego jesteś dumny?]",
-    "cytat": "Moja historia jeszcze się pisze.",
+    "cytat": "Ciesz się młodzieńcze w młodości swojej.",
     "wartosci": [
       {
         "tytul": "Rodzina",
