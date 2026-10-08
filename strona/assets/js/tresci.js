@@ -20,15 +20,11 @@ window.TRESCI = {
     "cytat": "Moja historia jeszcze się pisze.",
     "wartosci": [
       {
-        "tytul": "Ciekawość",
-        "opis": "[Co lubisz poznawać i czego chcesz się nauczyć?]"
       },
       {
-        "tytul": "Autentyczność",
         "opis": "[Co jest dla Ciebie ważne w relacjach i codziennych decyzjach?]"
       },
       {
-        "tytul": "Rozwój",
         "opis": "[Co pomaga Ci robić następny krok, nawet niewielki?]"
       }
     ]
