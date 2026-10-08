@@ -25,11 +25,11 @@ window.TRESCI = {
       },
       {
         "tytul": "Kariera",
-        "opis": "[Co jest dla Ciebie ważne w relacjach i codziennych decyzjach?]"
+        "opis": "Coś co pozwala mi rozwijać się i spełniać zawodow. Buduję swoją karierę w branży IT ale nie staję się robotem. Ważne dla mnie jest zdrowie psychiczne pracowników oraz ich rozwój. W bezpiecznym środowisku pracuje się efektywnie i przyjemnie!"
       },
       {
         "tytul": "Sport",
-        "opis": "[Co pomaga Ci robić następny krok, nawet niewielki?]"
+        "opis": "Najpierw był spacer, potem trucht, a teraz już nie wiem jak się to przerodziło w bieganie UTMB."
       }
     ]
   },
